@@ -10,6 +10,12 @@
   color: white;
 }
 
+.MealsError {
+  text-align: center;
+  color: rgb(134, 6, 6);
+  font-size: 30px;
+}
+
 .meals ul {
   list-style: none;
   margin: 0;
